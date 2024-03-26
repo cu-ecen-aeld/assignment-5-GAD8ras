@@ -1,0 +1,5 @@
+config BR2_PACKAGE_AESD_ASSIGNMENT5PART2
+	bool "aesd-assignment5part2"
+	help
+	  Includes the aesdsocket executable, aesdsocket-start-stop in the kernel image.
+	  Used to understand buildroot external trees and package builds.
